@@ -1,0 +1,7 @@
+/* CSS를 사용하고 싶으면 index.js에 아래 코드를 import */
+/* import "./style.css" */
+/* 컴포넌트나 스타일을 독립적으로 사용하고 유지시킬 수 있다는 장점 */
+.btn {
+    color: white;
+    background-color: tomato;
+}
